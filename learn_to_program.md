@@ -1,16 +1,16 @@
-# Learn to Program
+# 프로그래밍을 배워봐요
 
-Hi!
+안녕하세요!
 
-Feel free to contribute new links and resources to this document.
+새로운 링크나 자료를 이 페이지에 추가해주셔도 됩니다. 
 
-Please add your resource under the appropriate heading, creating new ones where necessary.
+추가하시는 자료는 적절한 항목 아래에 넣어주시고, 필요하다면 새로운 항목을 생성하셔도 됩니다. 
 
-It'd also be great if you added a few words describing your resource!
+여러분의 자료에 대해 간단히 설명해주신다면 더욱 좋겠습니다! 
 
-For example: if it's a paid resource, what format it's in, if it's particularly good for beginner or advanced people, etc.
+예를 들어 유료 소스인지, 어떤 포맷인지, 초보자에게 좋은 자료인지 베테랑에게 좋은 자료인지 등이요. 
 
-## Table of Contents
+## 차례
 
 - [Algorithms](#algorithms)
 - [Android](#android)
