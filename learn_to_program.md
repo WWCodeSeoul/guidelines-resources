@@ -42,7 +42,7 @@
 ### Algorithms
 
 - [Project Euler](http://projecteuler.net/)
-- [Visualgo](http://visualgo.net/) - Animated visualizations for algorithms
+- [Visualgo](http://visualgo.net/) - 알고리즘을 위한 애니메이션 시각화 툴
 - [Big-O Cheat Sheet](http://bigocheatsheet.com/)
 
 ### Android
@@ -67,19 +67,19 @@
 - [Google's C++ Class](https://developers.google.com/edu/c++/)
 - [Learn C The Hard Way](http://c.learncodethehardway.org/)
 - [Learn C++](http://www.learncpp.com/)
-- MIT Open Courseware C/C++ classes:
-  - [6.087 Practical Programming in C](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-087-practical-programming-in-c-january-iap-2010/) (taught January IAP 2010)
-  - [6.088 Intro to C Memory Mgmt and C++ Object-Oriented Prog.](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-088-introduction-to-c-memory-management-and-c-object-oriented-programming-january-iap-2010/) (taught January IAP 2010)
-  - [6.096 Introduction to C++](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-096-introduction-to-c-january-iap-2011/) (taught January IAP 2011)
-  - [6.S096 Introduction to C and C++](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s096-introduction-to-c-and-c-january-iap-2013) (taught January IAP 2013)
-  - [6.S096 Effective Programming in C and C++](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s096-effective-programming-in-c-and-c-january-iap-2014/) (taught January IAP 2014)
-- [C++ Today](http://www.oreilly.com/programming/free/c++-today.csp) (2015) - free O'Reilly eBook
+- MIT C/C++ 수업 오픈 코스자료:
+  - [6.087 Practical Programming in C](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-087-practical-programming-in-c-january-iap-2010/) (2010년 1월; IAP)
+  - [6.088 Intro to C Memory Mgmt and C++ Object-Oriented Prog.](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-088-introduction-to-c-memory-management-and-c-object-oriented-programming-january-iap-2010/) (2010년 1월; IAP)
+  - [6.096 Introduction to C++](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-096-introduction-to-c-january-iap-2011/) (2011년 1월; IAP)
+  - [6.S096 Introduction to C and C++](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s096-introduction-to-c-and-c-january-iap-2013) (2013년 1월; IAP)
+  - [6.S096 Effective Programming in C and C++](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s096-effective-programming-in-c-and-c-january-iap-2014/) (2014년 1월; IAP)
+- [C++ Today](http://www.oreilly.com/programming/free/c++-today.csp) (2015) - 무료 O'Reilly e-Book
 - [Infographic: C++ Facts](http://blog.jetbrains.com/clion/2015/07/infographics-cpp-facts-before-clion/) (2015)
-- [Bjarne Stroustrup's Homepage](http://www.stroustrup.com) (creator of C++)
+- [Bjarne Stroustrup's Homepage](http://www.stroustrup.com) (C++ 창시자)
   - [C++ FAQ](http://www.stroustrup.com/bs_faq.html)
-  - [applications](http://www.stroustrup.com/applications.html) written in C++
-  - some [C++ compilers](http://www.stroustrup.com/compilers.html)
-- YouTube playlists of CppCon conference talks:  https://www.youtube.com/user/CppCon
+  - C++로 작성된 [applications](http://www.stroustrup.com/applications.html) 
+  - [C++ compilers]?(http://www.stroustrup.com/compilers.html)
+- CppCon 컨퍼런스 토크의 YouTube 재생목록:  https://www.youtube.com/user/CppCon
 
 ### General Programming
 
@@ -128,8 +128,8 @@
 - [35 Useful CSS3 Tutorials To Boost Your Skills](http://www.tripwiremagazine.com/2012/06/css3-tutorials.html)
 - [Build Cross Browser Extensions in Minutes - Crossrider.com](http://crossrider.com/)
 - [BuildingWebApps.com](http://www.buildingwebapps.com/)
-- [CSS Diner](http://flukeout.github.io/) - game to learn CSS selectors
-- [Flexbox Froggy](http://flexboxfroggy.com/) - game to learn how to use flexbox
+- [CSS Diner](http://flukeout.github.io/) - CSS 셀렉터를 배울 수 있는 게임
+- [Flexbox Froggy](http://flexboxfroggy.com/) - flexbox 사용법을 배울 수 있는 게임
 - [HTML5 Course from W3C](https://www.edx.org/xseries/html5-w3c)
 - [Learn to Code Advanced HTML & CSS](http://learn.shayhowe.com/advanced-html-css/performance-organization/)
 - [Udemy: Learn the Foundations of HTML](https://blog.udemy.com/learn-html-learn-the-foundations-of-html/)
@@ -137,28 +137,28 @@
 
 ### iOS
 
-- Paul Hegarty's Stanford class CS193p on iTunes U:
+-  iTunes U의 Paul Hegarty 교수의 Stanford CS193p 수업:
   - [Developing iOS 9 Apps with Swift](https://itunes.apple.com/us/course/developing-ios-9-apps-swift/id1104579961)
   - [Developing iOS 7 Apps with Objective-C](https://itunes.apple.com/us/course/developing-ios-7-apps-for/id733644550)
 - [Flatiron iOS pre-work:](https://learn.co/join/ios-prework)
-- Code School's [Try Objective-C](https://www.codeschool.com/courses/try-objective-c)
+- Code School의 [Try Objective-C](https://www.codeschool.com/courses/try-objective-c)
 - [Ray Wenderlich tutorials](http://www.raywenderlich.com/)
 - CodePath:
   - [CodePath iOS Guides](http://guides.codepath.com/ios)
   - [CodePath iOS Guides for Designers](http://guides.codepath.com/ios/Designer-Guides)
   - [CodePath YouTube playlists](https://www.youtube.com/channel/UCvrvJyrx7ebh02wuOId11HA/playlists)
-- [Objective-C Programming: The Big Nerd Ranch Guide (2nd Edition, Nov 2013)](http://www.amazon.com/Objective-C-Programming-Ranch-Guide-Guides/dp/032194206X) -- link to book on Amazon
-- [iOS Programming: The Big Nerd Ranch Guide (5th Edition, Dec 2015)](http://www.amazon.com/iOS-Programming-Ranch-Edition-Guides/dp/0134390733) -- link to book on Amazon
-- [50 iOS Interview Questions & Answers](https://medium.com/ios-os-x-development/ios-interview-questions-13840247a57a) (article)
+- [Objective-C Programming: The Big Nerd Ranch Guide (2nd Edition, Nov 2013)](http://www.amazon.com/Objective-C-Programming-Ranch-Guide-Guides/dp/032194206X) -- Amazon의 책 주문 링크
+- [iOS Programming: The Big Nerd Ranch Guide (5th Edition, Dec 2015)](http://www.amazon.com/iOS-Programming-Ranch-Edition-Guides/dp/0134390733) -- Amazon의 책 주문 링크
+- [50 iOS Interview Questions & Answers](https://medium.com/ios-os-x-development/ios-interview-questions-13840247a57a) (기사)
 
 ### Java
 
 - [Head First Java](http://www.headfirstlabs.com/books/hfjava/)
 - [Cracking the Coding Interview](http://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X)
 - [CodingBat Java practice problems](http://codingbat.com/java)
-- Java Style Guidelines
-  - original [Coding Style Conventions for Java](http://www.oracle.com/technetwork/java/codeconvtoc-136057.html) from Sun
-  - alternate [Java Programming Style Guide](http://www.javaranch.com/style.jsp) from JavaRanch
+- Java 스타일 가이드라인
+  - Sun의 오리지널 [Coding Style Conventions for Java](http://www.oracle.com/technetwork/java/codeconvtoc-136057.html)
+  - JavaRanch의 대안적인 [Java Programming Style Guide](http://www.javaranch.com/style.jsp)
   - [Google Java Style](https://google-styleguide.googlecode.com/svn/trunk/javaguide.html)
 - [Secure Coding Guidelines for Java SE](http://www.oracle.com/technetwork/java/seccodeguide-139067.html)
 - [Teaching Kids Programming](http://teachingkidsprogramming.org/) Designed to introduce kids ages 10-14 to computational thinking with logo-like TKPJava library, but fun for adult learners as well.
