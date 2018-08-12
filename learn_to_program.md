@@ -97,11 +97,11 @@
 - [Learn to Program, by Chris Pine](http://pine.fm/LearnToProgram/)&nbsp;-&nbsp;[http://it-ebooks.info/<wbr>book/36/](http://it-ebooks.info/book/36/)
 - [Programr | Online IT Lab](http://www.programr.com/)
 - [Stypi - good for remote pairing](http://www.stypi.com/yy0ygna2)
-- [Tech Prep](https://techprep.fb.com) - get started - suitable for all ages
+- [Tech Prep](https://techprep.fb.com) - 시작하기 - 모든 연령대 
 
 ### Containers
 
-- [Kubernetes Basics - Interactive](http://kubernetes.io/docs/tutorials/kubernetes-basics/) Official self-paced walkthrough tutorial
+- [Kubernetes Basics - Interactive](http://kubernetes.io/docs/tutorials/kubernetes-basics/) 공식 자기조절 워크스루 튜토리얼
 
 ### Go
 
@@ -161,8 +161,8 @@
   - JavaRanch의 대안적인 [Java Programming Style Guide](http://www.javaranch.com/style.jsp)
   - [Google Java Style](https://google-styleguide.googlecode.com/svn/trunk/javaguide.html)
 - [Secure Coding Guidelines for Java SE](http://www.oracle.com/technetwork/java/seccodeguide-139067.html)
-- [Teaching Kids Programming](http://teachingkidsprogramming.org/) Designed to introduce kids ages 10-14 to computational thinking with logo-like TKPJava library, but fun for adult learners as well.
-- [Programming With Java: A Multimedia Approach] (http://www.jblearning.com/catalog/9781449638610/) Learn Java using programs that draw graphics and images, perform animation, read and play audio files, and display video. Suitable for beginners.
+- [Teaching Kids Programming](http://teachingkidsprogramming.org/) 로고 같은 TKPJava 라이브러리를 사용하여 10-14세 아이들에게 전산적인 생각하는 법을 배울 수 있도록 설계되었지만 성인 학습자도 재밌게 배울 수 있습니다.
+- [Programming With Java: A Multimedia Approach] (http://www.jblearning.com/catalog/9781449638610/) 그래픽과 이미지를 그려내고, 애니메이션을 만들고, 오디오 파일을 읽고 재생하며, 비디오를 보여주는 프로그램을 사용하여 Java를 배우세요. 초보자용. 
 
 ### JavaScript
 
@@ -171,26 +171,26 @@
 - [Exercism](http://www.exercism.io/)
 - [Eloquent Javascript](http://eloquentjavascript.net/)
 - [Khan Academy](https://www.khanacademy.org/computing/computer-programming/programming)
-- [Coder Projects](http://googlecreativelab.github.io/coder-projects/) - not all JS, but languages used are listed on the right hand side of the project list
+- [Coder Projects](http://googlecreativelab.github.io/coder-projects/) - 전체가 JS는 아니지만 사용된 언어는 프로젝트 리스트의 오른편에 표시되어 있습니다
 - [Hacker Rank](https://www.hackerrank.com)
 - [Mozilla's Javascript Tutorial](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [Javascript and HTML5 Now](http://www.oreilly.com/programming/free/javascript-html5-now.csp) - short overview of modern JS.  This is one of many free O'Reilly eBooks/videos, so it might be useful for other groups to check oreilly.com/programming/free
-- [CodePen](http://codepen.io/) - scope out cool ideas for html/css/js projects
+- [Javascript and HTML5 Now](http://www.oreilly.com/programming/free/javascript-html5-now.csp) - 최신 JS에 대한 짧은 오버뷰. O'Reilly의 많은 무료 전자책/비디오 중 하나이므로 oreilly.com/programming/free를 확인해보시는 것이 유용할 수 있습니다.
+- [CodePen](http://codepen.io/) - html/css/js projects에 대한 멋진 아이디어를 펼쳐보세요.
 - [Free Code Camp](http://www.freecodecamp.com/)
 - [Babel's ECMAScript 6 tutorial](http://babeljs.io/docs/learn-es2015/)
 - [W3Schools.com](http://www.w3schools.com/js/)
 - [Tutorials Point](http://www.tutorialspoint.com/javascript/)
 - [Square's Intro to D3.JS](http://square.github.io/intro-to-d3/)
 - [You Don't know JS](https://github.com/getify/You-Dont-Know-JS)
-- [Practical Javascript](http://practicaljavascript.net) Free Javascript course, good for beginners to get a good grounding in the basics. Great analogies for arrays, objects & loops. Also has a companion [Facebook group](https://www.facebook.com/groups/514043678767094/) and a weekly online study/q&a session.
-- [JavaScript30](https://javascript30.com/) - Learn JavaScript by building 30 things in 30 days.
+- [Practical Javascript](http://practicaljavascript.net) 무료 Javascript 코스, 초보자가 기초를 다지기에 좋습니다. Arrays, objects & loops에 대한 좋은 비유가 있습니다. 또한 함께 배울 수 있는 [페이스북 그룹](https://www.facebook.com/groups/514043678767094/)과 주간 온라인 학습/Q&A 세션이 있습니다. and a weekly online study/q&a session.
+- [JavaScript30](https://javascript30.com/) - 30일동안 30개를 만들어보면서 JavaScript를 배우세요. 
 
 ### PHP
 
 - [Codecademy’s PHP course](https://www.codecademy.com/learn/php)
 - [Learn PHP](http://www.learn-php.org)
 - [PHP the right way](http://www.phptherightway.com)
-- [Laracasts series on Laravel](https://laracasts.com/series/laravel-5-from-scratch) a great way to learn modern PHP development practices
+- [Laracasts series on Laravel](https://laracasts.com/series/laravel-5-from-scratch) 최신 PHP 개발 관행을 알 수 있는 좋은 방법 
 - [Laracasts series on PHP7](https://laracasts.com/series/php7-up-and-running)
 
 ### Python
@@ -201,18 +201,18 @@
 - [Coursera Python](https://www.coursera.org/course/interactivepython)
 - [Codecademy is now teaching Python!](http://www.codecademy.com/tracks/python)
 - [CodingBat Python practice problems](http://codingbat.com/python)
-- [NewCoder.io](http://newcoder.io/) - tutorials (data viz, APIs, web scraping, etc) from founder of PyLadiesSF
-- [Real Python](https://realpython.com) - learn python programming and web development through hands-on, interesting examples that are useful and fun!
-- [Full Stack Python](https://www.fullstackpython.com/) - explains Python web development concepts in plain language terms and links to the best tutorials for those topics
-- Flask - a lightweight Python web framework
+- [NewCoder.io](http://newcoder.io/) - PyLadiesSF의 파운더의 튜토리얼 (data viz, APIs, web scraping 등)
+- [Real Python](https://realpython.com) - 유용하고 재미있는 실습 예제를 통해 파이썬 프로그래밍 및 웹 개발을 배우세요!
+- [Full Stack Python](https://www.fullstackpython.com/) - Python 웹개발 개념을 쉬운 말로 풀어 설명하고 해당 주제에 대한 최고의 튜토리얼을 알려드립니다
+- Flask - 가벼운 Python 웹 framework
   - http://flask.pocoo.org/docs/0.10/tutorial/
-  - [Discover Flask](http://discoverflask.com) - full stack web development with flask
-  - [Flaskr Tutorial](https://github.com/mjhea0/flaskr-tdd) - Intro to Flask, Test Driven Development, and jQuery
-- [Merscythe: Adventures With the Codue] (http://www.speltechnologies.com) - An adventure story-based game for teaching Python programming to middle and high school students. Designed for accessibility and customizability.
-- [Udacity - Full Stack Foundations](https://www.udacity.com/course/full-stack-foundations--ud088) - In this free course you will learn the fundamentals of back-end web development and build a data-driven web app with Python.
+  - [Discover Flask](http://discoverflask.com) - flask를 이용한 풀스택 웹개발
+  - [Flaskr Tutorial](https://github.com/mjhea0/flaskr-tdd) - Flask 인트로와 테스트 주도 개발 그리고 jQuery
+- [Merscythe: Adventures With the Codue] (http://www.speltechnologies.com) - 중, 고등학생들에게 python 프로그래밍을 가르쳐주는 모험 이야기 기반의 게임. 접근성과 사용자 정의 가능성을 고려하여 설계됨.
+- [Udacity - Full Stack Foundations](https://www.udacity.com/course/full-stack-foundations--ud088) - 이 무료 과정에서는 백엔드 웹개발의 기초를 배우고 Python으로 데이터 기반 웹 응용 프로그램을 만듭니다.
 - [Getting Started with SciPy](https://scipy.org/getting-started.html)
-    - [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook) - O'Reilly ebook
-    - SciPy Conference videos:  [SciPy 2016](https://www.youtube.com/watch?v=OB1reY6IX-o&list=PLYx7XA2nY5Gf37zYZMw6OqGFRPjB1jCy6), [EuroSciPy 2015](https://www.youtube.com/watch?v=q9E0csBVcwQ&list=PLYx7XA2nY5GeQCCugyvtnHMVLdhYlrRxH), [SciPy 2015](https://www.youtube.com/watch?v=xAoljeRJ3lU&list=PLYx7XA2nY5Gcpabmu61kKcToLz0FapmHu), [EuroSciPy 2014](https://www.youtube.com/watch?v=DObmPAtuNw0&list=PLYx7XA2nY5GfavGAILg08spnrR7QWLimi), [SciPy 2014](https://www.youtube.com/watch?v=vWkgEddb4-A&list=PLYx7XA2nY5GfuhCvStxgbynFNrxr3VFog), [SciPy 2013](https://www.youtube.com/watch?v=NOm1zA_Cats&list=PLYx7XA2nY5GeTWcUQTbXVdllyp-Ie3r-y)
+    - [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook) - O'Reilly 전자책
+    - SciPy 컨퍼런스 비디오:  [SciPy 2016](https://www.youtube.com/watch?v=OB1reY6IX-o&list=PLYx7XA2nY5Gf37zYZMw6OqGFRPjB1jCy6), [EuroSciPy 2015](https://www.youtube.com/watch?v=q9E0csBVcwQ&list=PLYx7XA2nY5GeQCCugyvtnHMVLdhYlrRxH), [SciPy 2015](https://www.youtube.com/watch?v=xAoljeRJ3lU&list=PLYx7XA2nY5Gcpabmu61kKcToLz0FapmHu), [EuroSciPy 2014](https://www.youtube.com/watch?v=DObmPAtuNw0&list=PLYx7XA2nY5GfavGAILg08spnrR7QWLimi), [SciPy 2014](https://www.youtube.com/watch?v=vWkgEddb4-A&list=PLYx7XA2nY5GfuhCvStxgbynFNrxr3VFog), [SciPy 2013](https://www.youtube.com/watch?v=NOm1zA_Cats&list=PLYx7XA2nY5GeTWcUQTbXVdllyp-Ie3r-y)
       - [2015 Keynote: My Data Journey with Python](https://www.youtube.com/watch?v=kHdkFyGCxiY&list=PLYx7XA2nY5Gcpabmu61kKcToLz0FapmHu&index=16)
       - [2015 Keynote: State of the Tools](https://www.youtube.com/watch?v=5GlNDD7qbP4&t=26s&list=PLYx7XA2nY5Gcpabmu61kKcToLz0FapmHu&index=6)
 
@@ -264,14 +264,17 @@
 - [Smalltalk, Objects, and Design](https://books.google.co.in/books?id=W8_Une9cbbgC&printsec=frontcover&dq=smalltalk&hl=en&sa=X&ved=0CCIQ6AEwAWoVChMIw63Vo6CpyAIV0HGOCh3S2Alf#v=onepage&q=smalltalk&f=false)
 - [Smalltalk: An Introduction to Application Development Using VisualWorks](https://books.google.co.in/books?id=zalQAAAAMAAJ&q=smalltalk&dq=smalltalk&hl=en&sa=X&ved=0CCgQ6AEwAmoVChMIw63Vo6CpyAIV0HGOCh3S2Alf/)
 - [Pharo MOOC: Live Object Programming in Pharo](https://www.fun-mooc.fr/courses/inria/41010/session01/about)
-- [Free online smalltalk books](http://stephane.ducasse.free.fr/FreeBooks.html)
+- [Free online smalltalk books](http://stephane.ducasse.free.fr/Fre
+
+
+s.html)
 - [Pharo Books](http://files.pharo.org/books/)
 
 ### SQL
 
-- Codecademy's [Learn SQL](https://www.codecademy.com/courses/learn-sql) - uses sqlite, so good intro, but will be slightly different if you move to MySQL, Oracle SQL, SQL Server, etc
-- Khan Academy's [Intro to SQL](https://www.khanacademy.org/computing/computer-programming/sql)
-- [Try SQL - Code School](https://www.codeschool.com/courses/try-sql) - Learn basic database manipulation skills using the SQL programming language. Ins and Outs of DBs, Managing Data, Managing DBs and Tables.
+- Codecademy's [Learn SQL](https://www.codecademy.com/courses/learn-sql) - sqlite 사용, 좋은 인트로, 하지만 MySQL, Oracle SQL, SQL Server, 등과는 살짝 다를 거에요
+- Khan Academy의 [Intro to SQL](https://www.khanacademy.org/computing/computer-programming/sql)
+- [Try SQL - Code School](https://www.codeschool.com/courses/try-sql) - SQL 프로그래밍 언어를 사용하여 기본적인 데이터베이스 조작 기술을 익히세요. DB에 대한 모든 것, 데이터 관리, DB 및 tables 관리.
 
 ### Data
 
@@ -279,57 +282,57 @@
 - [edX - Explore statistics with R](https://www.edx.org/course/explore-statistics-r-kix-kiexplorx-0)
 - [Coursera - The Data Scientist’s Toolbox (John Hopkin's University)](https://www.coursera.org/course/datascitoolbox)
 - [edX - Big Data in Education (Teachers College | Columbia University)](https://www.edx.org/course/big-data-education-teacherscollegex-bde1x)
-- (*see SciPy in [Python](https://github.com/WomenWhoCode/guidelines-resources/blob/master/learn_to_program.md#python) section*)
+- (*see [Python](https://github.com/WomenWhoCode/guidelines-resources/blob/master/learn_to_program.md#python) 섹션*의 SciPy를 보세요)
 
 ### Game Development
 
 - [talk about Game Programming](https://www.youtube.com/watch?v=jDx-tj48iZI)
 - [Extra Credits game design YouTube vodcast](https://www.youtube.com/user/ExtraCreditz/playlists)
 - [Gamasutra ("The Art & Business of Making Games") postmortems](http://www.gamasutra.com/features/postmortem)
-- [OneGameAMonth.com](http://www.onegameamonth.com/) -- free online game dev bootcamp & game jam enthusiast’s club
-- Game Jams:
+- [OneGameAMonth.com](http://www.onegameamonth.com/) -- 무료 온라인 게임 개발 부트캠프 & 게임 잼을 사랑하는 사람들의 모임
+- 게임 잼:
   - [globalgamejam.org](http://globalgamejam.org)
   - [ludumdare.com](http://ludumdare.com)
-- Tools for making your own games:
-    - [love2d.org](love2d.org) -- definitely start with this one -- Lua
-    - [unity3d.com](unity3d.com) -- most commonly used at game jams, etc
-    - [ogre3d.org](ogre3d.org) -- a library / graphics engine -- C++
-    - bulletphysics -- a library -- C++
-- Artwork available online under a [Creative Commons License](http://www.lostgarden.com/2007/03/lost-garden-license.html) (more fun to make game with cool graphics):
+- 자기만의 게임을 만들기 위한 도구:
+    - [love2d.org](love2d.org) -- 꼭 이걸로 시작하세요 -- Lua
+    - [unity3d.com](unity3d.com) -- 게임 잼에서 가장 자주 사용돼요
+    - [ogre3d.org](ogre3d.org) -- 라이브러리/그래픽 엔진 -- C++
+    - bulletphysics -- 라이브러리 -- C++
+- [Creative Commons License](http://www.lostgarden.com/2007/03/lost-garden-license.html) 아래 무료 배포되는 아트워크 (멋진 그래픽으로 게임을 만들면 더 좋잖아요):
     - Daniel Cook, [Lost Garden](http://www.lostgarden.com/search/label/free%20game%20graphics)
 
 ### Git
 
-- [Code School - Try Git](https://try.github.io/levels/1/challenges/1) (in-browser)
+- [Code School - Try Git](https://try.github.io/levels/1/challenges/1) (인브라우저)
 - [Pro Git](http://git-scm.com/book)
 - [Atlassian Git Tutorials](https://www.atlassian.com/git)
 - [Git for Non-Developers](http://anitacheng.com/git-for-non-developers)
-- [Git-it - intro Git/Github tutorial](https://github.com/jlord/git-it) (includes Traditional Chinese version, requires local install)
-- [Learn Git Branching](http://pcottle.github.io/learnGitBranching/) (interactive tutorial)
+- [Git-it - intro Git/Github tutorial](https://github.com/jlord/git-it) (중국어 번체 버전 포함, 로컬 설치 필요)
+- [Learn Git Branching](http://pcottle.github.io/learnGitBranching/) (인터렉티브 튜토리얼)
 - [GitHub - Git Cheat Sheet](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf) (pdf)
 - [Github - Pull requests](https://training.github.com/classnotes/2014-05-28-free-class-pull-requests)
 - [Understanding Git Concepts](http://www.sbf5.com/~cduan/technical/git/)
 - [Good Commit Messages](http://chris.beams.io/posts/git-commit/)
 - [Github Guides](https://guides.github.com/)
-- [Git Happens - Jessica Kerr](https://guides.github.com/) - Great intro to Git. (YouTube)
-- [Git Immersion](http://gitimmersion.com/) - Learn Git by doing it.
+- [Git Happens - Jessica Kerr](https://guides.github.com/) - 좋은 Git 인트로. (YouTube)
+- [Git Immersion](http://gitimmersion.com/) - 이걸로 Git을 배우세요.
 
 ### InfoSec
 
-- Training:
+- 트레이닝:
   - [Hacksplaining - security training for developers] (https://www.hacksplaining.com/)
 - Reddit /r/netsec/ resources:
   - [Getting Started in Information Security](https://www.reddit.com/r/netsec/wiki/start) (Reddit wiki)
   - [Hey we run five InfoSec consulting companies - Ask Us Anything (2014 edition)](https://www.reddit.com/r/netsec/comments/202bsf/hey_guys_we_run_five_infosec_consulting_companies/?sort=old&limit=500) (Reddit AMA)
   - [Hey we run five InfoSec consulting companies - Ask Us Anything (2015 edition)](https://www.reddit.com/r/netsec/comments/3k9ul8/we_run_five_infosec_consulting_companies_ask_us/?sort=qa&limit=500) (Reddit AMA)
   - [We are Kaspersky Lab's Global Research & Analysis Team (GReAT) - Ask Us Anything (2016)](https://www.reddit.com/r/IAmA/comments/4uueqa/we_are_kaspersky_labs_global_research_analysis/?limit=500) (Reddit AMA)
-- Hacking Challenges / Demo Apps
+- 해킹 챌린지 / 데모 앱
     - [OverTheWire WarGames](http://overthewire.org/wargames/)
     - [Hack this site] (https://www.hackthissite.org/)
     - [Matasano Crypto Challenges](http://cryptopals.com/)
-    - [OWASP Security Shepard](https://www.owasp.org/index.php/OWASP_Security_Shepherd) -- web and mobile application security training platform
+    - [OWASP Security Shepard](https://www.owasp.org/index.php/OWASP_Security_Shepherd) -- 웹 및 모바일 애플리케이션 보안 교육 플랫폼
       - [Sam Bowne](https://twitter.com/sambowne) has a working installation you can play against here: https://shepherd.samsclass.info
-- Capture The Flag (CTF) links:
+- Flag (CTF) 링크를 가져가세요:
     - [CTF Field Guide](http://trailofbits.github.io/ctf/index.html)
     - [https://ctftime.org/](https://ctftime.org/) - archive of old Capture The Flag (CTF) competitions and calendar of upcoming ones
     - links from Carnegie Mellon's CTF team, Plaid Parliament of Pwning (PPP)
