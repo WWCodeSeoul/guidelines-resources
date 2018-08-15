@@ -8,7 +8,7 @@
 
 여러분의 자료에 대해 간단히 설명해주신다면 더욱 좋겠습니다! 
 
-예를 들어 유료 소스인지, 어떤 포맷인지, 초보자에게 좋은 자료인지 베테랑에게 좋은 자료인지 등이요. 
+예를 들어 유료 소스인지, 어떤 포맷인지, 초보자에게 좋은 자료인지 어느 정도 수준이 있는 사람에게 좋은 자료인지 등이요. 
 
 ## 차례
 
@@ -334,11 +334,11 @@ s.html)
       - [Sam Bowne](https://twitter.com/sambowne) has a working installation you can play against here: https://shepherd.samsclass.info
 - Flag (CTF) 링크를 가져가세요:
     - [CTF Field Guide](http://trailofbits.github.io/ctf/index.html)
-    - [https://ctftime.org/](https://ctftime.org/) - archive of old Capture The Flag (CTF) competitions and calendar of upcoming ones
-    - links from Carnegie Mellon's CTF team, Plaid Parliament of Pwning (PPP)
-      - [picoCTF](https://picoctf.com/) -- Carnegie Mellon University's CTF training app
-        - [Building a Competitive Hacking Team](https://www.youtube.com/watch?v=-r-B1uOj0W4) - USENIX Enigma 2016 talk about start of PPP + advice for developing CTF/security skills
-    - [Collaborating to Win](https://www.youtube.com/watch?v=6X3xSsoqoFw) -- presentation on Collaborative CTF Infrastructure (video)
+    - [https://ctftime.org/](https://ctftime.org/) - 예전 Capture The Flag (CTF) 대회 아카이브와 앞으로의 일정 캘린더 
+    - Carnegie Mellon의 CTF팀의로부터의 링크, Plaid Parliament of Pwning (PPP)
+      - [picoCTF](https://picoctf.com/) -- Carnegie Mellon University의 CTF 트레이닝 앱
+        - [Building a Competitive Hacking Team](https://www.youtube.com/watch?v=-r-B1uOj0W4) - PPP의 시작에 대한 USENIX Enigma 2016 토크와 CTF나 시큐리티 기술 개발에 대한 조언
+    - [Collaborating to Win](https://www.youtube.com/watch?v=6X3xSsoqoFw) -- Collaborative CTF Infrastructure에 대한 프레젠테이션(비디오)
         - write up of talk with links:  http://lockboxx.blogspot.com/2015/11/cooperative-infrastructure-for-security.html
     - https://github.com/ctfs -- mix of CTF write ups & [learning guide](https://github.com/ctfs/resources)
 - Bug Bounty links:
