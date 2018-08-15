@@ -8,7 +8,7 @@
 
 여러분의 자료에 대해 간단히 설명해주신다면 더욱 좋겠습니다! 
 
-예를 들어 유료 소스인지, 어떤 포맷인지, 초보자에게 좋은 자료인지 어느 정도 수준이 있는 사람에게 좋은 자료인지 등이요. 
+예를 들어 유료 소스인지, 어떤 포맷인지, 어느 정도 수준의 사람에게 좋은 자료인지 등이요. 
 
 ## 차례
 
@@ -73,7 +73,7 @@
   - [6.096 Introduction to C++](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-096-introduction-to-c-january-iap-2011/) (2011년 1월; IAP)
   - [6.S096 Introduction to C and C++](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s096-introduction-to-c-and-c-january-iap-2013) (2013년 1월; IAP)
   - [6.S096 Effective Programming in C and C++](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s096-effective-programming-in-c-and-c-january-iap-2014/) (2014년 1월; IAP)
-- [C++ Today](http://www.oreilly.com/programming/free/c++-today.csp) (2015) - 무료 O'Reilly e-Book
+- [C++ Today](http://www.oreilly.com/programming/free/c++-today.csp) (2015) - 무료 O'Reilly 
 - [Infographic: C++ Facts](http://blog.jetbrains.com/clion/2015/07/infographics-cpp-facts-before-clion/) (2015)
 - [Bjarne Stroustrup's Homepage](http://www.stroustrup.com) (C++ 창시자)
   - [C++ FAQ](http://www.stroustrup.com/bs_faq.html)
@@ -162,7 +162,7 @@
   - [Google Java Style](https://google-styleguide.googlecode.com/svn/trunk/javaguide.html)
 - [Secure Coding Guidelines for Java SE](http://www.oracle.com/technetwork/java/seccodeguide-139067.html)
 - [Teaching Kids Programming](http://teachingkidsprogramming.org/) 로고 같은 TKPJava 라이브러리를 사용하여 10-14세 아이들에게 전산적인 생각하는 법을 배울 수 있도록 설계되었지만 성인 학습자도 재밌게 배울 수 있습니다.
-- [Programming With Java: A Multimedia Approach] (http://www.jblearning.com/catalog/9781449638610/) 그래픽과 이미지를 그려내고, 애니메이션을 만들고, 오디오 파일을 읽고 재생하며, 비디오를 보여주는 프로그램을 사용하여 Java를 배우세요. 초보자용. 
+- [Programming With Java: A Multimedia Approach](http://www.jblearning.com/catalog/9781449638610/) 그래픽과 이미지를 그려내고, 애니메이션을 만들고, 오디오 파일을 읽고 재생하며, 비디오를 보여주는 프로그램을 사용하여 Java를 배우세요. 초보자용. 
 
 ### JavaScript
 
@@ -183,7 +183,7 @@
 - [Square's Intro to D3.JS](http://square.github.io/intro-to-d3/)
 - [You Don't know JS](https://github.com/getify/You-Dont-Know-JS)
 - [Practical Javascript](http://practicaljavascript.net) 무료 Javascript 코스, 초보자가 기초를 다지기에 좋습니다. Arrays, objects & loops에 대한 좋은 비유가 있습니다. 또한 함께 배울 수 있는 [페이스북 그룹](https://www.facebook.com/groups/514043678767094/)과 주간 온라인 학습/Q&A 세션이 있습니다. and a weekly online study/q&a session.
-- [JavaScript30](https://javascript30.com/) - 30일동안 30개를 만들어보면서 JavaScript를 배우세요. 
+- [JavaScript30](https://javascript30.com/) - 30일동안 30개의 과제로 JavaScript를 배우세요. 
 
 ### PHP
 
@@ -319,7 +319,7 @@ s.html)
 
 ### InfoSec
 
-- 트레이닝:
+- 교육:
   - [Hacksplaining - security training for developers] (https://www.hacksplaining.com/)
 - Reddit /r/netsec/ resources:
   - [Getting Started in Information Security](https://www.reddit.com/r/netsec/wiki/start) (Reddit wiki)
@@ -337,19 +337,19 @@ s.html)
     - [https://ctftime.org/](https://ctftime.org/) - 예전 Capture The Flag (CTF) 대회 아카이브와 앞으로의 일정 캘린더 
     - Carnegie Mellon의 CTF팀의로부터의 링크, Plaid Parliament of Pwning (PPP)
       - [picoCTF](https://picoctf.com/) -- Carnegie Mellon University의 CTF 트레이닝 앱
-        - [Building a Competitive Hacking Team](https://www.youtube.com/watch?v=-r-B1uOj0W4) - PPP의 시작에 대한 USENIX Enigma 2016 토크와 CTF나 시큐리티 기술 개발에 대한 조언
+        - [Building a Competitive Hacking Team](https://www.youtube.com/watch?v=-r-B1uOj0W4) - PPP의 시작에 대한 USENIX Enigma 2016 토크와 CTF나 보안기술 개발에 대한 조언
     - [Collaborating to Win](https://www.youtube.com/watch?v=6X3xSsoqoFw) -- Collaborative CTF Infrastructure에 대한 프레젠테이션(비디오)
-        - write up of talk with links:  http://lockboxx.blogspot.com/2015/11/cooperative-infrastructure-for-security.html
-    - https://github.com/ctfs -- mix of CTF write ups & [learning guide](https://github.com/ctfs/resources)
+        - 토크 전문:  http://lockboxx.blogspot.com/2015/11/cooperative-infrastructure-for-security.html
+    - https://github.com/ctfs -- CTF 전문과 [learning guide](https://github.com/ctfs/resources)의 조합
 - Bug Bounty links:
     - [Bug Bounties 101 - Getting Started](https://fin1te.net/articles/bug-bounties-101-getting-started/)
-    - [Bugcrowd blog](https://blog.bugcrowd.com/) - for bug bounty community
-- [/dev/ttys0 Blog](http://www.devttys0.com/blog/) - awesome blog on hacking embedded devices
-- Kaspersky Labs:
-    - Kaspersky Labs experts' technical research, analysis, and thoughts:  https://securelist.com
-    - Kaspersky Labs' tracker for APTs (Advanced Persistent Threats):  https://apt.securelist.com
+    - [Bugcrowd blog](https://blog.bugcrowd.com/) - 버그 바운티 커뮤니티용
+- [/dev/ttys0 Blog](http://www.devttys0.com/blog/) - 임베디드 디바이스 해킹에 대한 멋진 블로그
+- Kaspersky Lab:
+    - Kaspersky Labs 전문가들의 기술적 연구과 분석 및 생각:  https://securelist.com
+    - APT를 위한 Kaspersky Labs의 트래커 (Advanced Persistent Threats):  https://apt.securelist.com
     - https://securelist.com/blog/opinions/67928/the-art-of-finding-cyber-dinosaur-skeletons
-- Creative Commons licensed training material for computer security:  http://opensecuritytraining.info
+- 컴퓨터 보안에 대한 Creative Commons 라이선스의 교육 자료:  http://opensecuritytraining.info
 
 ### Internet of Things (IoT)
 
@@ -363,11 +363,11 @@ s.html)
 
 ### Docker
 
-- [Docker Tutorials and Labs](https://github.com/docker/labs) -- community-maintained in Docker's own GitHub account
-- Intro to Docker workshop (skip slides 26-29 and instead follow the [docs.docker.com](https://docs.docker.com/) setup guide):  http://slides.dckr.info:88/DockerSlides.pdf
-- Docker Orchestration workshop:  https://github.com/jpetazzo/orchestration-workshop
-  - fork this repo down to your computer, and then open this file in a browser:  https://github.com/jpetazzo/orchestration-workshop/blob/master/www/htdocs/index.html
-- [Docker, Linux Containers (LXC), and Security](http://www.slideshare.net/jpetazzo/docker-linux-containers-lxc-and-security) slides from 2014 talk
+- [Docker Tutorials and Labs](https://github.com/docker/labs) -- Docker의 Github 계정에 커뮤니티가 관리
+- Docker 워크샵 인트로 (슬라이드 26-29는 스킵하시고 [docs.docker.com](https://docs.docker.com/)의 셋업 가이드를 따라가세요):  http://slides.dckr.info:88/DockerSlides.pdf
+- Docker Orchestration 워크샵:  https://github.com/jpetazzo/orchestration-workshop
+  - 이 레포를 컴퓨터로 포크하신 후 파일을 브라우저에서 여세요:  https://github.com/jpetazzo/orchestration-workshop/blob/master/www/htdocs/index.html
+- [Docker, Linux Containers (LXC), and Security](http://www.slideshare.net/jpetazzo/docker-linux-containers-lxc-and-security) 2014년 토크에서  슬라이스 
 
 ### Misc
 
