@@ -264,10 +264,7 @@
 - [Smalltalk, Objects, and Design](https://books.google.co.in/books?id=W8_Une9cbbgC&printsec=frontcover&dq=smalltalk&hl=en&sa=X&ved=0CCIQ6AEwAWoVChMIw63Vo6CpyAIV0HGOCh3S2Alf#v=onepage&q=smalltalk&f=false)
 - [Smalltalk: An Introduction to Application Development Using VisualWorks](https://books.google.co.in/books?id=zalQAAAAMAAJ&q=smalltalk&dq=smalltalk&hl=en&sa=X&ved=0CCgQ6AEwAmoVChMIw63Vo6CpyAIV0HGOCh3S2Alf/)
 - [Pharo MOOC: Live Object Programming in Pharo](https://www.fun-mooc.fr/courses/inria/41010/session01/about)
-- [Free online smalltalk books](http://stephane.ducasse.free.fr/Fre
-
-
-s.html)
+- [Free online smalltalk books](http://stephane.ducasse.free.fr/FreeBooks.html)
 - [Pharo Books](http://files.pharo.org/books/)
 
 ### SQL
@@ -282,7 +279,7 @@ s.html)
 - [edX - Explore statistics with R](https://www.edx.org/course/explore-statistics-r-kix-kiexplorx-0)
 - [Coursera - The Data Scientist’s Toolbox (John Hopkin's University)](https://www.coursera.org/course/datascitoolbox)
 - [edX - Big Data in Education (Teachers College | Columbia University)](https://www.edx.org/course/big-data-education-teacherscollegex-bde1x)
-- (*see [Python](https://github.com/WomenWhoCode/guidelines-resources/blob/master/learn_to_program.md#python) 섹션*의 SciPy를 보세요)
+- (*[Python](https://github.com/WomenWhoCode/guidelines-resources/blob/master/learn_to_program.md#python) 섹션*의 SciPy를 보세요)
 
 ### Game Development
 
