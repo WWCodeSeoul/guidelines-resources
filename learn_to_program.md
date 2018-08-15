@@ -320,7 +320,7 @@ s.html)
 ### InfoSec
 
 - 교육:
-  - [Hacksplaining - security training for developers] (https://www.hacksplaining.com/)
+  - [Hacksplaining - security training for developers](https://www.hacksplaining.com/)
 - Reddit /r/netsec/ resources:
   - [Getting Started in Information Security](https://www.reddit.com/r/netsec/wiki/start) (Reddit wiki)
   - [Hey we run five InfoSec consulting companies - Ask Us Anything (2014 edition)](https://www.reddit.com/r/netsec/comments/202bsf/hey_guys_we_run_five_infosec_consulting_companies/?sort=old&limit=500) (Reddit AMA)
@@ -331,7 +331,7 @@ s.html)
     - [Hack this site] (https://www.hackthissite.org/)
     - [Matasano Crypto Challenges](http://cryptopals.com/)
     - [OWASP Security Shepard](https://www.owasp.org/index.php/OWASP_Security_Shepherd) -- 웹 및 모바일 애플리케이션 보안 교육 플랫폼
-      - [Sam Bowne](https://twitter.com/sambowne) has a working installation you can play against here: https://shepherd.samsclass.info
+      - [Sam Bowne](https://twitter.com/sambowne)에는 여러분이 여기서 직접 시도해볼 수 있는 설치파일이 있어요: https://shepherd.samsclass.info
 - Flag (CTF) 링크를 가져가세요:
     - [CTF Field Guide](http://trailofbits.github.io/ctf/index.html)
     - [https://ctftime.org/](https://ctftime.org/) - 예전 Capture The Flag (CTF) 대회 아카이브와 앞으로의 일정 캘린더 
@@ -353,9 +353,9 @@ s.html)
 
 ### Internet of Things (IoT)
 
-- AWS Loft Talk [An Engineer's Tour of the Internet of Things](https://www.youtube.com/watch?v=yElH0mGzEkE) (Sep 2015 video)
-- [BuildItSecure.ly](http://builditsecure.ly/#resources) - security researchers curating a learn-how-to-build-IoT-securely site ([DEF CON talk introducing initiative](https://youtu.be/WHdU4LutBGU) - initiative mentioned at 37:36)
-- [http://iot.eclipse.org/getting-started](http://iot.eclipse.org/getting-started) - includes Connected Greenhouse tutorial (uses Java language)
+- AWS 로프트 토크 [An Engineer's Tour of the Internet of Things](https://www.youtube.com/watch?v=yElH0mGzEkE) (2015년 9월 비디오)
+- [BuildItSecure.ly](http://builditsecure.ly/#resources) - 보안 연구자들이 "IoT를 어떻게 안전하게 만들 수 있는가"에 대한 사이트를 만듭니다([DEF CON talk introducing initiative](https://youtu.be/WHdU4LutBGU) - initiative는 37:36에 나옵니다)
+- [http://iot.eclipse.org/getting-started](http://iot.eclipse.org/getting-started) - Connected Greenhouse 튜토리얼 포함 (Java 언어 사용)
 
 ### System Administration
 
@@ -377,7 +377,7 @@ s.html)
 - [Neural Networks for Machine Learning](https://www.coursera.org/course/neuralnets)
 - [Stack Overflow](http://stackoverflow.com/)
 - [CodeEval - Evaluations Made Easy](http://codeeval.com/)
-- [Command-line Power User](https://commandlinepoweruser.com/) - Free course to learn command line workflows.
+- [Command-line Power User](https://commandlinepoweruser.com/) - 커맨드 라인의 작업흐름을 배울 수 있는 무료 코스.
 
 ### Schools
 
