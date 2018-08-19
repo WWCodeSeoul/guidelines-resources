@@ -1,16 +1,16 @@
-# Learn to Program
+# 프로그래밍을 배워봐요
 
-Hi!
+안녕하세요!
 
-Feel free to contribute new links and resources to this document.
+새로운 링크나 자료를 이 페이지에 추가해주셔도 됩니다. 
 
-Please add your resource under the appropriate heading, creating new ones where necessary.
+추가하시는 자료는 적절한 항목 아래에 넣어주시고, 필요하다면 새로운 항목을 생성하셔도 됩니다. 
 
-It'd also be great if you added a few words describing your resource!
+여러분의 자료에 대해 간단히 설명해주신다면 더욱 좋겠습니다! 
 
-For example: if it's a paid resource, what format it's in, if it's particularly good for beginner or advanced people, etc.
+예를 들어 유료 소스인지, 어떤 포맷인지, 어느 정도 수준의 사람에게 좋은 자료인지 등이요. 
 
-## Table of Contents
+## 차례
 
 - [Algorithms](#algorithms)
 - [Android](#android)
@@ -42,7 +42,7 @@ For example: if it's a paid resource, what format it's in, if it's particularly 
 ### Algorithms
 
 - [Project Euler](http://projecteuler.net/)
-- [Visualgo](http://visualgo.net/) - Animated visualizations for algorithms
+- [Visualgo](http://visualgo.net/) - 알고리즘을 위한 애니메이션 시각화 툴
 - [Big-O Cheat Sheet](http://bigocheatsheet.com/)
 
 ### Android
@@ -67,19 +67,19 @@ For example: if it's a paid resource, what format it's in, if it's particularly 
 - [Google's C++ Class](https://developers.google.com/edu/c++/)
 - [Learn C The Hard Way](http://c.learncodethehardway.org/)
 - [Learn C++](http://www.learncpp.com/)
-- MIT Open Courseware C/C++ classes:
-  - [6.087 Practical Programming in C](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-087-practical-programming-in-c-january-iap-2010/) (taught January IAP 2010)
-  - [6.088 Intro to C Memory Mgmt and C++ Object-Oriented Prog.](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-088-introduction-to-c-memory-management-and-c-object-oriented-programming-january-iap-2010/) (taught January IAP 2010)
-  - [6.096 Introduction to C++](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-096-introduction-to-c-january-iap-2011/) (taught January IAP 2011)
-  - [6.S096 Introduction to C and C++](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s096-introduction-to-c-and-c-january-iap-2013) (taught January IAP 2013)
-  - [6.S096 Effective Programming in C and C++](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s096-effective-programming-in-c-and-c-january-iap-2014/) (taught January IAP 2014)
-- [C++ Today](http://www.oreilly.com/programming/free/c++-today.csp) (2015) - free O'Reilly eBook
+- MIT C/C++ 수업 오픈 코스자료:
+  - [6.087 Practical Programming in C](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-087-practical-programming-in-c-january-iap-2010/) (2010년 1월; IAP)
+  - [6.088 Intro to C Memory Mgmt and C++ Object-Oriented Prog.](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-088-introduction-to-c-memory-management-and-c-object-oriented-programming-january-iap-2010/) (2010년 1월; IAP)
+  - [6.096 Introduction to C++](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-096-introduction-to-c-january-iap-2011/) (2011년 1월; IAP)
+  - [6.S096 Introduction to C and C++](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s096-introduction-to-c-and-c-january-iap-2013) (2013년 1월; IAP)
+  - [6.S096 Effective Programming in C and C++](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s096-effective-programming-in-c-and-c-january-iap-2014/) (2014년 1월; IAP)
+- [C++ Today](http://www.oreilly.com/programming/free/c++-today.csp) (2015) - 무료 O'Reilly 
 - [Infographic: C++ Facts](http://blog.jetbrains.com/clion/2015/07/infographics-cpp-facts-before-clion/) (2015)
-- [Bjarne Stroustrup's Homepage](http://www.stroustrup.com) (creator of C++)
+- [Bjarne Stroustrup's Homepage](http://www.stroustrup.com) (C++ 창시자)
   - [C++ FAQ](http://www.stroustrup.com/bs_faq.html)
-  - [applications](http://www.stroustrup.com/applications.html) written in C++
-  - some [C++ compilers](http://www.stroustrup.com/compilers.html)
-- YouTube playlists of CppCon conference talks:  https://www.youtube.com/user/CppCon
+  - C++로 작성된 [applications](http://www.stroustrup.com/applications.html) 
+  - [C++ compilers]?(http://www.stroustrup.com/compilers.html)
+- CppCon 컨퍼런스 토크의 YouTube 재생목록:  https://www.youtube.com/user/CppCon
 
 ### General Programming
 
@@ -97,11 +97,11 @@ For example: if it's a paid resource, what format it's in, if it's particularly 
 - [Learn to Program, by Chris Pine](http://pine.fm/LearnToProgram/)&nbsp;-&nbsp;[http://it-ebooks.info/<wbr>book/36/](http://it-ebooks.info/book/36/)
 - [Programr | Online IT Lab](http://www.programr.com/)
 - [Stypi - good for remote pairing](http://www.stypi.com/yy0ygna2)
-- [Tech Prep](https://techprep.fb.com) - get started - suitable for all ages
+- [Tech Prep](https://techprep.fb.com) - 시작하기 - 모든 연령대 
 
 ### Containers
 
-- [Kubernetes Basics - Interactive](http://kubernetes.io/docs/tutorials/kubernetes-basics/) Official self-paced walkthrough tutorial
+- [Kubernetes Basics - Interactive](http://kubernetes.io/docs/tutorials/kubernetes-basics/) 공식 자기조절 워크스루 튜토리얼
 
 ### Go
 
@@ -128,8 +128,8 @@ For example: if it's a paid resource, what format it's in, if it's particularly 
 - [35 Useful CSS3 Tutorials To Boost Your Skills](http://www.tripwiremagazine.com/2012/06/css3-tutorials.html)
 - [Build Cross Browser Extensions in Minutes - Crossrider.com](http://crossrider.com/)
 - [BuildingWebApps.com](http://www.buildingwebapps.com/)
-- [CSS Diner](http://flukeout.github.io/) - game to learn CSS selectors
-- [Flexbox Froggy](http://flexboxfroggy.com/) - game to learn how to use flexbox
+- [CSS Diner](http://flukeout.github.io/) - CSS 셀렉터를 배울 수 있는 게임
+- [Flexbox Froggy](http://flexboxfroggy.com/) - flexbox 사용법을 배울 수 있는 게임
 - [HTML5 Course from W3C](https://www.edx.org/xseries/html5-w3c)
 - [Learn to Code Advanced HTML & CSS](http://learn.shayhowe.com/advanced-html-css/performance-organization/)
 - [Udemy: Learn the Foundations of HTML](https://blog.udemy.com/learn-html-learn-the-foundations-of-html/)
@@ -137,32 +137,32 @@ For example: if it's a paid resource, what format it's in, if it's particularly 
 
 ### iOS
 
-- Paul Hegarty's Stanford class CS193p on iTunes U:
+-  iTunes U의 Paul Hegarty 교수의 Stanford CS193p 수업:
   - [Developing iOS 9 Apps with Swift](https://itunes.apple.com/us/course/developing-ios-9-apps-swift/id1104579961)
   - [Developing iOS 7 Apps with Objective-C](https://itunes.apple.com/us/course/developing-ios-7-apps-for/id733644550)
 - [Flatiron iOS pre-work:](https://learn.co/join/ios-prework)
-- Code School's [Try Objective-C](https://www.codeschool.com/courses/try-objective-c)
+- Code School의 [Try Objective-C](https://www.codeschool.com/courses/try-objective-c)
 - [Ray Wenderlich tutorials](http://www.raywenderlich.com/)
 - CodePath:
   - [CodePath iOS Guides](http://guides.codepath.com/ios)
   - [CodePath iOS Guides for Designers](http://guides.codepath.com/ios/Designer-Guides)
   - [CodePath YouTube playlists](https://www.youtube.com/channel/UCvrvJyrx7ebh02wuOId11HA/playlists)
-- [Objective-C Programming: The Big Nerd Ranch Guide (2nd Edition, Nov 2013)](http://www.amazon.com/Objective-C-Programming-Ranch-Guide-Guides/dp/032194206X) -- link to book on Amazon
-- [iOS Programming: The Big Nerd Ranch Guide (5th Edition, Dec 2015)](http://www.amazon.com/iOS-Programming-Ranch-Edition-Guides/dp/0134390733) -- link to book on Amazon
-- [50 iOS Interview Questions & Answers](https://medium.com/ios-os-x-development/ios-interview-questions-13840247a57a) (article)
+- [Objective-C Programming: The Big Nerd Ranch Guide (2nd Edition, Nov 2013)](http://www.amazon.com/Objective-C-Programming-Ranch-Guide-Guides/dp/032194206X) -- Amazon의 책 주문 링크
+- [iOS Programming: The Big Nerd Ranch Guide (5th Edition, Dec 2015)](http://www.amazon.com/iOS-Programming-Ranch-Edition-Guides/dp/0134390733) -- Amazon의 책 주문 링크
+- [50 iOS Interview Questions & Answers](https://medium.com/ios-os-x-development/ios-interview-questions-13840247a57a) (기사)
 
 ### Java
 
 - [Head First Java](http://www.headfirstlabs.com/books/hfjava/)
 - [Cracking the Coding Interview](http://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X)
 - [CodingBat Java practice problems](http://codingbat.com/java)
-- Java Style Guidelines
-  - original [Coding Style Conventions for Java](http://www.oracle.com/technetwork/java/codeconvtoc-136057.html) from Sun
-  - alternate [Java Programming Style Guide](http://www.javaranch.com/style.jsp) from JavaRanch
+- Java 스타일 가이드라인
+  - Sun의 오리지널 [Coding Style Conventions for Java](http://www.oracle.com/technetwork/java/codeconvtoc-136057.html)
+  - JavaRanch의 대안적인 [Java Programming Style Guide](http://www.javaranch.com/style.jsp)
   - [Google Java Style](https://google-styleguide.googlecode.com/svn/trunk/javaguide.html)
 - [Secure Coding Guidelines for Java SE](http://www.oracle.com/technetwork/java/seccodeguide-139067.html)
-- [Teaching Kids Programming](http://teachingkidsprogramming.org/) Designed to introduce kids ages 10-14 to computational thinking with logo-like TKPJava library, but fun for adult learners as well.
-- [Programming With Java: A Multimedia Approach] (http://www.jblearning.com/catalog/9781449638610/) Learn Java using programs that draw graphics and images, perform animation, read and play audio files, and display video. Suitable for beginners.
+- [Teaching Kids Programming](http://teachingkidsprogramming.org/) 로고 같은 TKPJava 라이브러리를 사용하여 10-14세 아이들에게 전산적인 생각하는 법을 배울 수 있도록 설계되었지만 성인 학습자도 재밌게 배울 수 있습니다.
+- [Programming With Java: A Multimedia Approach](http://www.jblearning.com/catalog/9781449638610/) 그래픽과 이미지를 그려내고, 애니메이션을 만들고, 오디오 파일을 읽고 재생하며, 비디오를 보여주는 프로그램을 사용하여 Java를 배우세요. 초보자용. 
 
 ### JavaScript
 
@@ -171,26 +171,26 @@ For example: if it's a paid resource, what format it's in, if it's particularly 
 - [Exercism](http://www.exercism.io/)
 - [Eloquent Javascript](http://eloquentjavascript.net/)
 - [Khan Academy](https://www.khanacademy.org/computing/computer-programming/programming)
-- [Coder Projects](http://googlecreativelab.github.io/coder-projects/) - not all JS, but languages used are listed on the right hand side of the project list
+- [Coder Projects](http://googlecreativelab.github.io/coder-projects/) - 전체가 JS는 아니지만 사용된 언어는 프로젝트 리스트의 오른편에 표시되어 있습니다
 - [Hacker Rank](https://www.hackerrank.com)
 - [Mozilla's Javascript Tutorial](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [Javascript and HTML5 Now](http://www.oreilly.com/programming/free/javascript-html5-now.csp) - short overview of modern JS.  This is one of many free O'Reilly eBooks/videos, so it might be useful for other groups to check oreilly.com/programming/free
-- [CodePen](http://codepen.io/) - scope out cool ideas for html/css/js projects
+- [Javascript and HTML5 Now](http://www.oreilly.com/programming/free/javascript-html5-now.csp) - 최신 JS에 대한 짧은 오버뷰. O'Reilly의 많은 무료 전자책/비디오 중 하나이므로 oreilly.com/programming/free를 확인해보시는 것이 유용할 수 있습니다.
+- [CodePen](http://codepen.io/) - html/css/js projects에 대한 멋진 아이디어를 펼쳐보세요.
 - [Free Code Camp](http://www.freecodecamp.com/)
 - [Babel's ECMAScript 6 tutorial](http://babeljs.io/docs/learn-es2015/)
 - [W3Schools.com](http://www.w3schools.com/js/)
 - [Tutorials Point](http://www.tutorialspoint.com/javascript/)
 - [Square's Intro to D3.JS](http://square.github.io/intro-to-d3/)
 - [You Don't know JS](https://github.com/getify/You-Dont-Know-JS)
-- [Practical Javascript](http://practicaljavascript.net) Free Javascript course, good for beginners to get a good grounding in the basics. Great analogies for arrays, objects & loops. Also has a companion [Facebook group](https://www.facebook.com/groups/514043678767094/) and a weekly online study/q&a session.
-- [JavaScript30](https://javascript30.com/) - Learn JavaScript by building 30 things in 30 days.
+- [Practical Javascript](http://practicaljavascript.net) 무료 Javascript 코스, 초보자가 기초를 다지기에 좋습니다. Arrays, objects & loops에 대한 좋은 비유가 있습니다. 또한 함께 배울 수 있는 [페이스북 그룹](https://www.facebook.com/groups/514043678767094/)과 주간 온라인 학습/Q&A 세션이 있습니다. and a weekly online study/q&a session.
+- [JavaScript30](https://javascript30.com/) - 30일동안 30개의 과제로 JavaScript를 배우세요. 
 
 ### PHP
 
 - [Codecademy’s PHP course](https://www.codecademy.com/learn/php)
 - [Learn PHP](http://www.learn-php.org)
 - [PHP the right way](http://www.phptherightway.com)
-- [Laracasts series on Laravel](https://laracasts.com/series/laravel-5-from-scratch) a great way to learn modern PHP development practices
+- [Laracasts series on Laravel](https://laracasts.com/series/laravel-5-from-scratch) 최신 PHP 개발 관행을 알 수 있는 좋은 방법 
 - [Laracasts series on PHP7](https://laracasts.com/series/php7-up-and-running)
 
 ### Python
@@ -201,18 +201,18 @@ For example: if it's a paid resource, what format it's in, if it's particularly 
 - [Coursera Python](https://www.coursera.org/course/interactivepython)
 - [Codecademy is now teaching Python!](http://www.codecademy.com/tracks/python)
 - [CodingBat Python practice problems](http://codingbat.com/python)
-- [NewCoder.io](http://newcoder.io/) - tutorials (data viz, APIs, web scraping, etc) from founder of PyLadiesSF
-- [Real Python](https://realpython.com) - learn python programming and web development through hands-on, interesting examples that are useful and fun!
-- [Full Stack Python](https://www.fullstackpython.com/) - explains Python web development concepts in plain language terms and links to the best tutorials for those topics
-- Flask - a lightweight Python web framework
+- [NewCoder.io](http://newcoder.io/) - PyLadiesSF의 파운더의 튜토리얼 (data viz, APIs, web scraping 등)
+- [Real Python](https://realpython.com) - 유용하고 재미있는 실습 예제를 통해 파이썬 프로그래밍 및 웹 개발을 배우세요!
+- [Full Stack Python](https://www.fullstackpython.com/) - Python 웹개발 개념을 쉬운 말로 풀어 설명하고 해당 주제에 대한 최고의 튜토리얼을 알려드립니다
+- Flask - 가벼운 Python 웹 framework
   - http://flask.pocoo.org/docs/0.10/tutorial/
-  - [Discover Flask](http://discoverflask.com) - full stack web development with flask
-  - [Flaskr Tutorial](https://github.com/mjhea0/flaskr-tdd) - Intro to Flask, Test Driven Development, and jQuery
-- [Merscythe: Adventures With the Codue] (http://www.speltechnologies.com) - An adventure story-based game for teaching Python programming to middle and high school students. Designed for accessibility and customizability.
-- [Udacity - Full Stack Foundations](https://www.udacity.com/course/full-stack-foundations--ud088) - In this free course you will learn the fundamentals of back-end web development and build a data-driven web app with Python.
+  - [Discover Flask](http://discoverflask.com) - flask를 이용한 풀스택 웹개발
+  - [Flaskr Tutorial](https://github.com/mjhea0/flaskr-tdd) - Flask 인트로와 테스트 주도 개발 그리고 jQuery
+- [Merscythe: Adventures With the Codue] (http://www.speltechnologies.com) - 중, 고등학생들에게 python 프로그래밍을 가르쳐주는 모험 이야기 기반의 게임. 접근성과 사용자 정의 가능성을 고려하여 설계됨.
+- [Udacity - Full Stack Foundations](https://www.udacity.com/course/full-stack-foundations--ud088) - 이 무료 과정에서는 백엔드 웹개발의 기초를 배우고 Python으로 데이터 기반 웹 응용 프로그램을 만듭니다.
 - [Getting Started with SciPy](https://scipy.org/getting-started.html)
-    - [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook) - O'Reilly ebook
-    - SciPy Conference videos:  [SciPy 2016](https://www.youtube.com/watch?v=OB1reY6IX-o&list=PLYx7XA2nY5Gf37zYZMw6OqGFRPjB1jCy6), [EuroSciPy 2015](https://www.youtube.com/watch?v=q9E0csBVcwQ&list=PLYx7XA2nY5GeQCCugyvtnHMVLdhYlrRxH), [SciPy 2015](https://www.youtube.com/watch?v=xAoljeRJ3lU&list=PLYx7XA2nY5Gcpabmu61kKcToLz0FapmHu), [EuroSciPy 2014](https://www.youtube.com/watch?v=DObmPAtuNw0&list=PLYx7XA2nY5GfavGAILg08spnrR7QWLimi), [SciPy 2014](https://www.youtube.com/watch?v=vWkgEddb4-A&list=PLYx7XA2nY5GfuhCvStxgbynFNrxr3VFog), [SciPy 2013](https://www.youtube.com/watch?v=NOm1zA_Cats&list=PLYx7XA2nY5GeTWcUQTbXVdllyp-Ie3r-y)
+    - [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook) - O'Reilly 전자책
+    - SciPy 컨퍼런스 비디오:  [SciPy 2016](https://www.youtube.com/watch?v=OB1reY6IX-o&list=PLYx7XA2nY5Gf37zYZMw6OqGFRPjB1jCy6), [EuroSciPy 2015](https://www.youtube.com/watch?v=q9E0csBVcwQ&list=PLYx7XA2nY5GeQCCugyvtnHMVLdhYlrRxH), [SciPy 2015](https://www.youtube.com/watch?v=xAoljeRJ3lU&list=PLYx7XA2nY5Gcpabmu61kKcToLz0FapmHu), [EuroSciPy 2014](https://www.youtube.com/watch?v=DObmPAtuNw0&list=PLYx7XA2nY5GfavGAILg08spnrR7QWLimi), [SciPy 2014](https://www.youtube.com/watch?v=vWkgEddb4-A&list=PLYx7XA2nY5GfuhCvStxgbynFNrxr3VFog), [SciPy 2013](https://www.youtube.com/watch?v=NOm1zA_Cats&list=PLYx7XA2nY5GeTWcUQTbXVdllyp-Ie3r-y)
       - [2015 Keynote: My Data Journey with Python](https://www.youtube.com/watch?v=kHdkFyGCxiY&list=PLYx7XA2nY5Gcpabmu61kKcToLz0FapmHu&index=16)
       - [2015 Keynote: State of the Tools](https://www.youtube.com/watch?v=5GlNDD7qbP4&t=26s&list=PLYx7XA2nY5Gcpabmu61kKcToLz0FapmHu&index=6)
 
@@ -269,9 +269,9 @@ For example: if it's a paid resource, what format it's in, if it's particularly 
 
 ### SQL
 
-- Codecademy's [Learn SQL](https://www.codecademy.com/courses/learn-sql) - uses sqlite, so good intro, but will be slightly different if you move to MySQL, Oracle SQL, SQL Server, etc
-- Khan Academy's [Intro to SQL](https://www.khanacademy.org/computing/computer-programming/sql)
-- [Try SQL - Code School](https://www.codeschool.com/courses/try-sql) - Learn basic database manipulation skills using the SQL programming language. Ins and Outs of DBs, Managing Data, Managing DBs and Tables.
+- Codecademy's [Learn SQL](https://www.codecademy.com/courses/learn-sql) - sqlite 사용, 좋은 인트로, 하지만 MySQL, Oracle SQL, SQL Server, 등과는 살짝 다를 거에요
+- Khan Academy의 [Intro to SQL](https://www.khanacademy.org/computing/computer-programming/sql)
+- [Try SQL - Code School](https://www.codeschool.com/courses/try-sql) - SQL 프로그래밍 언어를 사용하여 기본적인 데이터베이스 조작 기술을 익히세요. DB에 대한 모든 것, 데이터 관리, DB 및 tables 관리.
 
 ### Data
 
@@ -279,80 +279,80 @@ For example: if it's a paid resource, what format it's in, if it's particularly 
 - [edX - Explore statistics with R](https://www.edx.org/course/explore-statistics-r-kix-kiexplorx-0)
 - [Coursera - The Data Scientist’s Toolbox (John Hopkin's University)](https://www.coursera.org/course/datascitoolbox)
 - [edX - Big Data in Education (Teachers College | Columbia University)](https://www.edx.org/course/big-data-education-teacherscollegex-bde1x)
-- (*see SciPy in [Python](https://github.com/WomenWhoCode/guidelines-resources/blob/master/learn_to_program.md#python) section*)
+- (*[Python](https://github.com/WomenWhoCode/guidelines-resources/blob/master/learn_to_program.md#python) 섹션*의 SciPy를 보세요)
 
 ### Game Development
 
 - [talk about Game Programming](https://www.youtube.com/watch?v=jDx-tj48iZI)
 - [Extra Credits game design YouTube vodcast](https://www.youtube.com/user/ExtraCreditz/playlists)
 - [Gamasutra ("The Art & Business of Making Games") postmortems](http://www.gamasutra.com/features/postmortem)
-- [OneGameAMonth.com](http://www.onegameamonth.com/) -- free online game dev bootcamp & game jam enthusiast’s club
-- Game Jams:
+- [OneGameAMonth.com](http://www.onegameamonth.com/) -- 무료 온라인 게임 개발 부트캠프 & 게임 잼을 사랑하는 사람들의 모임
+- 게임 잼:
   - [globalgamejam.org](http://globalgamejam.org)
   - [ludumdare.com](http://ludumdare.com)
-- Tools for making your own games:
-    - [love2d.org](love2d.org) -- definitely start with this one -- Lua
-    - [unity3d.com](unity3d.com) -- most commonly used at game jams, etc
-    - [ogre3d.org](ogre3d.org) -- a library / graphics engine -- C++
-    - bulletphysics -- a library -- C++
-- Artwork available online under a [Creative Commons License](http://www.lostgarden.com/2007/03/lost-garden-license.html) (more fun to make game with cool graphics):
+- 자기만의 게임을 만들기 위한 도구:
+    - [love2d.org](love2d.org) -- 꼭 이걸로 시작하세요 -- Lua
+    - [unity3d.com](unity3d.com) -- 게임 잼에서 가장 자주 사용돼요
+    - [ogre3d.org](ogre3d.org) -- 라이브러리/그래픽 엔진 -- C++
+    - bulletphysics -- 라이브러리 -- C++
+- [Creative Commons License](http://www.lostgarden.com/2007/03/lost-garden-license.html) 아래 무료 배포되는 아트워크 (멋진 그래픽으로 게임을 만들면 더 좋잖아요):
     - Daniel Cook, [Lost Garden](http://www.lostgarden.com/search/label/free%20game%20graphics)
 
 ### Git
 
-- [Code School - Try Git](https://try.github.io/levels/1/challenges/1) (in-browser)
+- [Code School - Try Git](https://try.github.io/levels/1/challenges/1) (인브라우저)
 - [Pro Git](http://git-scm.com/book)
 - [Atlassian Git Tutorials](https://www.atlassian.com/git)
 - [Git for Non-Developers](http://anitacheng.com/git-for-non-developers)
-- [Git-it - intro Git/Github tutorial](https://github.com/jlord/git-it) (includes Traditional Chinese version, requires local install)
-- [Learn Git Branching](http://pcottle.github.io/learnGitBranching/) (interactive tutorial)
+- [Git-it - intro Git/Github tutorial](https://github.com/jlord/git-it) (중국어 번체 버전 포함, 로컬 설치 필요)
+- [Learn Git Branching](http://pcottle.github.io/learnGitBranching/) (인터렉티브 튜토리얼)
 - [GitHub - Git Cheat Sheet](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf) (pdf)
 - [Github - Pull requests](https://training.github.com/classnotes/2014-05-28-free-class-pull-requests)
 - [Understanding Git Concepts](http://www.sbf5.com/~cduan/technical/git/)
 - [Good Commit Messages](http://chris.beams.io/posts/git-commit/)
 - [Github Guides](https://guides.github.com/)
-- [Git Happens - Jessica Kerr](https://guides.github.com/) - Great intro to Git. (YouTube)
-- [Git Immersion](http://gitimmersion.com/) - Learn Git by doing it.
+- [Git Happens - Jessica Kerr](https://guides.github.com/) - 좋은 Git 인트로. (YouTube)
+- [Git Immersion](http://gitimmersion.com/) - 이걸로 Git을 배우세요.
 
 ### InfoSec
 
-- Training:
-  - [Hacksplaining - security training for developers] (https://www.hacksplaining.com/)
+- 교육:
+  - [Hacksplaining - security training for developers](https://www.hacksplaining.com/)
 - Reddit /r/netsec/ resources:
   - [Getting Started in Information Security](https://www.reddit.com/r/netsec/wiki/start) (Reddit wiki)
   - [Hey we run five InfoSec consulting companies - Ask Us Anything (2014 edition)](https://www.reddit.com/r/netsec/comments/202bsf/hey_guys_we_run_five_infosec_consulting_companies/?sort=old&limit=500) (Reddit AMA)
   - [Hey we run five InfoSec consulting companies - Ask Us Anything (2015 edition)](https://www.reddit.com/r/netsec/comments/3k9ul8/we_run_five_infosec_consulting_companies_ask_us/?sort=qa&limit=500) (Reddit AMA)
   - [We are Kaspersky Lab's Global Research & Analysis Team (GReAT) - Ask Us Anything (2016)](https://www.reddit.com/r/IAmA/comments/4uueqa/we_are_kaspersky_labs_global_research_analysis/?limit=500) (Reddit AMA)
-- Hacking Challenges / Demo Apps
+- 해킹 챌린지 / 데모 앱
     - [OverTheWire WarGames](http://overthewire.org/wargames/)
     - [Hack this site] (https://www.hackthissite.org/)
     - [Matasano Crypto Challenges](http://cryptopals.com/)
-    - [OWASP Security Shepard](https://www.owasp.org/index.php/OWASP_Security_Shepherd) -- web and mobile application security training platform
-      - [Sam Bowne](https://twitter.com/sambowne) has a working installation you can play against here: https://shepherd.samsclass.info
-- Capture The Flag (CTF) links:
+    - [OWASP Security Shepard](https://www.owasp.org/index.php/OWASP_Security_Shepherd) -- 웹 및 모바일 애플리케이션 보안 교육 플랫폼
+      - [Sam Bowne](https://twitter.com/sambowne)에는 여러분이 여기서 직접 시도해볼 수 있는 설치파일이 있어요: https://shepherd.samsclass.info
+- Flag (CTF) 링크를 가져가세요:
     - [CTF Field Guide](http://trailofbits.github.io/ctf/index.html)
-    - [https://ctftime.org/](https://ctftime.org/) - archive of old Capture The Flag (CTF) competitions and calendar of upcoming ones
-    - links from Carnegie Mellon's CTF team, Plaid Parliament of Pwning (PPP)
-      - [picoCTF](https://picoctf.com/) -- Carnegie Mellon University's CTF training app
-        - [Building a Competitive Hacking Team](https://www.youtube.com/watch?v=-r-B1uOj0W4) - USENIX Enigma 2016 talk about start of PPP + advice for developing CTF/security skills
-    - [Collaborating to Win](https://www.youtube.com/watch?v=6X3xSsoqoFw) -- presentation on Collaborative CTF Infrastructure (video)
-        - write up of talk with links:  http://lockboxx.blogspot.com/2015/11/cooperative-infrastructure-for-security.html
-    - https://github.com/ctfs -- mix of CTF write ups & [learning guide](https://github.com/ctfs/resources)
+    - [https://ctftime.org/](https://ctftime.org/) - 예전 Capture The Flag (CTF) 대회 아카이브와 앞으로의 일정 캘린더 
+    - Carnegie Mellon의 CTF팀의로부터의 링크, Plaid Parliament of Pwning (PPP)
+      - [picoCTF](https://picoctf.com/) -- Carnegie Mellon University의 CTF 트레이닝 앱
+        - [Building a Competitive Hacking Team](https://www.youtube.com/watch?v=-r-B1uOj0W4) - PPP의 시작에 대한 USENIX Enigma 2016 토크와 CTF나 보안기술 개발에 대한 조언
+    - [Collaborating to Win](https://www.youtube.com/watch?v=6X3xSsoqoFw) -- Collaborative CTF Infrastructure에 대한 프레젠테이션(비디오)
+        - 토크 전문:  http://lockboxx.blogspot.com/2015/11/cooperative-infrastructure-for-security.html
+    - https://github.com/ctfs -- CTF 전문과 [learning guide](https://github.com/ctfs/resources)의 조합
 - Bug Bounty links:
     - [Bug Bounties 101 - Getting Started](https://fin1te.net/articles/bug-bounties-101-getting-started/)
-    - [Bugcrowd blog](https://blog.bugcrowd.com/) - for bug bounty community
-- [/dev/ttys0 Blog](http://www.devttys0.com/blog/) - awesome blog on hacking embedded devices
-- Kaspersky Labs:
-    - Kaspersky Labs experts' technical research, analysis, and thoughts:  https://securelist.com
-    - Kaspersky Labs' tracker for APTs (Advanced Persistent Threats):  https://apt.securelist.com
+    - [Bugcrowd blog](https://blog.bugcrowd.com/) - 버그 바운티 커뮤니티용
+- [/dev/ttys0 Blog](http://www.devttys0.com/blog/) - 임베디드 디바이스 해킹에 대한 멋진 블로그
+- Kaspersky Lab:
+    - Kaspersky Labs 전문가들의 기술적 연구과 분석 및 생각:  https://securelist.com
+    - APT를 위한 Kaspersky Labs의 트래커 (Advanced Persistent Threats):  https://apt.securelist.com
     - https://securelist.com/blog/opinions/67928/the-art-of-finding-cyber-dinosaur-skeletons
-- Creative Commons licensed training material for computer security:  http://opensecuritytraining.info
+- 컴퓨터 보안에 대한 Creative Commons 라이선스의 교육 자료:  http://opensecuritytraining.info
 
 ### Internet of Things (IoT)
 
-- AWS Loft Talk [An Engineer's Tour of the Internet of Things](https://www.youtube.com/watch?v=yElH0mGzEkE) (Sep 2015 video)
-- [BuildItSecure.ly](http://builditsecure.ly/#resources) - security researchers curating a learn-how-to-build-IoT-securely site ([DEF CON talk introducing initiative](https://youtu.be/WHdU4LutBGU) - initiative mentioned at 37:36)
-- [http://iot.eclipse.org/getting-started](http://iot.eclipse.org/getting-started) - includes Connected Greenhouse tutorial (uses Java language)
+- AWS 로프트 토크 [An Engineer's Tour of the Internet of Things](https://www.youtube.com/watch?v=yElH0mGzEkE) (2015년 9월 비디오)
+- [BuildItSecure.ly](http://builditsecure.ly/#resources) - 보안 연구자들이 "IoT를 어떻게 안전하게 만들 수 있는가"에 대한 사이트를 만듭니다([DEF CON talk introducing initiative](https://youtu.be/WHdU4LutBGU) - initiative는 37:36에 나옵니다)
+- [http://iot.eclipse.org/getting-started](http://iot.eclipse.org/getting-started) - Connected Greenhouse 튜토리얼 포함 (Java 언어 사용)
 
 ### System Administration
 
@@ -360,11 +360,11 @@ For example: if it's a paid resource, what format it's in, if it's particularly 
 
 ### Docker
 
-- [Docker Tutorials and Labs](https://github.com/docker/labs) -- community-maintained in Docker's own GitHub account
-- Intro to Docker workshop (skip slides 26-29 and instead follow the [docs.docker.com](https://docs.docker.com/) setup guide):  http://slides.dckr.info:88/DockerSlides.pdf
-- Docker Orchestration workshop:  https://github.com/jpetazzo/orchestration-workshop
-  - fork this repo down to your computer, and then open this file in a browser:  https://github.com/jpetazzo/orchestration-workshop/blob/master/www/htdocs/index.html
-- [Docker, Linux Containers (LXC), and Security](http://www.slideshare.net/jpetazzo/docker-linux-containers-lxc-and-security) slides from 2014 talk
+- [Docker Tutorials and Labs](https://github.com/docker/labs) -- Docker의 Github 계정에 커뮤니티가 관리
+- Docker 워크샵 인트로 (슬라이드 26-29는 스킵하시고 [docs.docker.com](https://docs.docker.com/)의 셋업 가이드를 따라가세요):  http://slides.dckr.info:88/DockerSlides.pdf
+- Docker Orchestration 워크샵:  https://github.com/jpetazzo/orchestration-workshop
+  - 이 레포를 컴퓨터로 포크하신 후 파일을 브라우저에서 여세요:  https://github.com/jpetazzo/orchestration-workshop/blob/master/www/htdocs/index.html
+- [Docker, Linux Containers (LXC), and Security](http://www.slideshare.net/jpetazzo/docker-linux-containers-lxc-and-security) 2014년 토크에서  슬라이스 
 
 ### Misc
 
@@ -374,7 +374,7 @@ For example: if it's a paid resource, what format it's in, if it's particularly 
 - [Neural Networks for Machine Learning](https://www.coursera.org/course/neuralnets)
 - [Stack Overflow](http://stackoverflow.com/)
 - [CodeEval - Evaluations Made Easy](http://codeeval.com/)
-- [Command-line Power User](https://commandlinepoweruser.com/) - Free course to learn command line workflows.
+- [Command-line Power User](https://commandlinepoweruser.com/) - 커맨드 라인의 작업흐름을 배울 수 있는 무료 코스.
 
 ### Schools
 
