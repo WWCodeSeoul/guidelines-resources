@@ -3,19 +3,12 @@
 
 ## TABLE OF CONTENTS(목차)
 
-* [PEP-TALK](##PEP-TALK)
-* [BUILD TEAM INCREDIBLE](##BUILD-TEAM-INCREDIBL)
-* [PLAN YOUR EVENT](##PLAN-YOUR-EVENT)
-* [HASHTAG #APPLAUDHER](##HASHTAG-#APPLAUDHER)
-* [CORE PROGRAM FORMATS](##CORE-PROGRAM-FORMATS)
-* [EVENT CHECKLIST](##EVENT-CHECKLIST)
-
-* [격려사](##격려사)
-* [멋진 팀 구성하기](##멋진-팀-구성하기)
-* [행사 기획하기](##행사-기획하기)
-* [#APPLAUDHER 해시태그](##APPLAUDHER-해시태그)
-* [주요 프로그램 양식](##주요-프로그램-양식)
-* [행사 준비사항](##행사-준비사항)
+* [PEP-TALK(격려사)](##PEP-TALK(격려사))
+* [BUILD TEAM INCREDIBLE(멋진 팀 구성하기)](#BUILD TEAM INCREDIBLE(멋진 팀 구성하기))
+* [PLAN YOUR EVENT(행사 기획하기)](##PLAN YOUR EVENT(행사 기획하기))
+* [HASHTAG #APPLAUDHER(APPLAUDHER 해시태그)](##HASHTAG #APPLAUDHER(APPLAUDHER 해시태그))
+* [CORE PROGRAM FORMATS(주요 프로그램 양식)](##CORE PROGRAM FORMATS(주요 프로그램 양식))
+* [EVENT CHECKLIST(행사 준비사항)](##EVENT CHECKLIST(행사 준비사항))
 
 
 ## PEP-TALK(격려사)
@@ -59,7 +52,7 @@ Promote the event on social media.
 소셜 미디어에 행사를 홍보합니다.
 * 사진을 찍고 트위터에 공유합니다 / 행사가 진행되는 동안 페이스북에 포스팅합니다. 
 
-** For Technical Study Groups, Leads might:** 
+**For Technical Study Groups, Leads might:** 
 * Design technical program. This might include: 
 * Selecting a tutorial from the WWCode Github repository to be used for a study group.
 * Inviting engineers or guests to give product demos or technical talks.
@@ -75,7 +68,7 @@ Promote the event on social media.
 * 프로그램을 진행합니다.   
 * 행사가 진행되는 동안에 멘토로서 사람들에게 동기부여를 하고 계속 참여할 수 있도록 이끌어줍니다.
 
-** For monthly and special events, Directors or other network leadership team members might: ** 
+**For monthly and special events, Directors or other network leadership team members might:** 
 * Design the program.
 * Invite speakers and guests to participate. 
 * Prep any event materials or slideshows.
