@@ -5,7 +5,7 @@
 
 * [PEP-TALK(격려사)](##PEP-TALK(격려사))
 * [BUILD TEAM INCREDIBLE(멋진 팀 구성하기)](##BUILD-TEAM-INCREDIBLE(멋진-팀-구성하기))
-* [PLAN YOUR EVENT(행사 기획하기)](##PLAN-YOUR-EVENT(행사-기획하기)
+* [PLAN YOUR EVENT(행사 기획하기)](##PLAN-YOUR-EVENT(행사-기획하기))
 * [HASHTAG #APPLAUDHER(APPLAUDHER 해시태그)](##HASHTAG-#APPLAUDHER(APPLAUDHER-해시태그))
 * [CORE PROGRAM FORMATS(주요 프로그램 양식)](##CORE-PROGRAM-FORMATS(주요-프로그램-양식))
 * [EVENT CHECKLIST(행사 준비사항)](##EVENT-CHECKLIST(행사-준비사항))
