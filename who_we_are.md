@@ -37,7 +37,7 @@ Our goal is to connect 1 million women in tech by 2019
 
 To date WWCode has 13,000 members spanning 14 countries.
 
-현재까지 20개국 60개 도시에 13만 7천여 명의 구성원이 활동 중입니다.
+현재(2018년 8월 기준)까지 20개국 60개 도시에 13만 7천여 명의 구성원이 활동 중입니다.(업데이트)
 
 
 ## Empowerment(권한 부여)
