@@ -55,7 +55,7 @@ If you experience or notice harassment, discrimination, or any of the unacceptab
 
 We encourage you to report any incident of harassment, discrimination, or unacceptable behavior as soon as possible. WWCode leadership will take all appropriate actions to mitigate risk factors moving forward and continue to provide a safe and secure environment for all WWCode members. WWCode leadership is happy to assist attendees in contacting venue security, local law enforcement, or otherwise aid those experiencing harassment so that they feel safe for the duration of the event. The WWCode leadership team will take great care to ensure that the assistance provided meets the needs of attendees who were affected.
 
-만일 괴롭힘이나 차별 혹은 이 문서에 명시되지 않은 어떠한 용납되지 않는 행동을 겪거나 인지한 경우, 혹은 어떠한 형태로의 염려 사항이 생긴 경우, 해당 사항을 즉시 행사 주최자에게 알려주시기 바랍니다. 그 방법으로, 다음에 제시되는 조치들 중 하나를 선택할 수 있습니다. 현장에서 즉시 행사 주최자에게 알리기, 당신이 속한 네트워크의 다른 주최자에게 알리기, WWCode 본사에 [해당 문서](https://docs.google.com/forms/d/1NuBY_E2DcuJx2wtKFXyS5ZY5zZlql4jcZJqsf0sAs-0/viewform)를 작성하여 알리기. 만일 당신이 익명으로 알리거나 당신을 대신하여 WWcode 본사가 문제를 처리하기 원한다면 [해당 문서](https://docs.google.com/forms/d/1NuBY_E2DcuJx2wtKFXyS5ZY5zZlql4jcZJqsf0sAs-0/viewform)를 사용해서 알려주시면 됩니다. 해당 양식에 이름을 적어 제출한 경우라도, 개인정보는 문제 해결에 관여된 WWCode 리더에게만 노출될 것입니다.
+만일 괴롭힘이나 차별 혹은 이 문서에 명시되지 않은 어떠한 용납되지 않는 행동을 겪거나 인지한 경우, 혹은 어떠한 형태로의 염려 사항이 생긴 경우, 해당 사항을 즉시 행사 주최자에게 알려주시기 바랍니다. 그 방법으로, 다음에 제시되는 조치들 중 하나를 선택할 수 있습니다. 현장에서 즉시 행사 주최자에게 알리기, 당신이 속한 네트워크의 다른 주최자에게 알리기, WWCode 본에 [해당 문서](https://docs.google.com/forms/d/1NuBY_E2DcuJx2wtKFXyS5ZY5zZlql4jcZJqsf0sAs-0/viewform)를 작성하여 알리기. 만일 당신이 익명으로 알리거나 당신을 대신하여 WWcode 본부가 문제를 처리하기 원한다면 [해당 문서](https://docs.google.com/forms/d/1NuBY_E2DcuJx2wtKFXyS5ZY5zZlql4jcZJqsf0sAs-0/viewform)를 사용해서 알려주시면 됩니다. 해당 양식에 이름을 적어 제출한 경우라도, 개인정보는 문제 해결에 관여된 WWCode 리더에게만 노출될 것입니다.
 
 우리는 당신이 어떠한 괴롭힘, 차별, 용납할 수 없는 행동들에 대해 가능한 한 빨리 보고하길 권장합니다. WWCode 리더는 위험요소들을 줄여나가며 문제 해결을 위한 모든 적절한 행동을 취할 것이며, 모든 WWCode 구성원들에게 안전하고 안심할 수 있는 환경을 제공해 나갈 것입니다. WWCode 리더는 모임 장소의 보안요원, 지역 경찰관 등에 연락을 취하거나 그 외에도 괴롭힘을 겪는 분들이 행사가 진행되는 동안 안전하다고 느낄 수 있도록 기꺼이 도움을 드리겠습니다.
 
@@ -64,7 +64,7 @@ We encourage you to report any incident of harassment, discrimination, or unacce
 
 WWCode strives to create a positive and inclusive environment. As such, the WWCode leadership team commits to an annual review of the Code of Conduct to ensure that it continues to align with this goal and address the needs of our community. WWCode welcomes feedback from its members. All feedback should be submitted to HQ by emailing: contact@womenwhocode.com.
 
-WWCode 는 긍정적이고 포괄적인 공동체를 위해 고군분투합니다. 그렇기에, WWCode 리더팀은 이 목표를 계속 실천해나가고 우리 공동체의 니즈를 반영하고 있는지 확실히 하기 위해 매년 Code of Conduct 에 대한 리뷰를 수행합니다. WWCode는 구성원들의 피드백을 환영합니다. 모든 피드백은 이메일을 통해서 WWCode 본사로 제출 부탁드립니다. (이메일주소 : contact@womenwhocode.com)
+WWCode 는 긍정적이고 포괄적인 공동체를 위해 고군분투합니다. 그렇기에, WWCode 리더팀은 이 목표를 계속 실천해나가고 우리 공동체의 니즈를 반영하고 있는지 확실히 하기 위해 매년 Code of Conduct 에 대한 리뷰를 수행합니다. WWCode는 구성원들의 피드백을 환영합니다. 모든 피드백은 이메일을 통해서 WWCode 본부로 제출 부탁드립니다. (이메일주소 : contact@womenwhocode.com)
 
 
 ## Acknowledgments(감사의 인사말)
